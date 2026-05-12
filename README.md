@@ -11,3 +11,5 @@ docker login testdockerveeru.azurecr.io
 docker push testdockerveeru.azurecr.io/mltest:latest 
 
 
+
+
