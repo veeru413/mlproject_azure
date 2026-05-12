@@ -8,4 +8,6 @@ docker build -t testdockerveeru.azurecr.io/mltest:latest .
 
 docker login testdockerveeru.azurecr.io
 
-docker push testdockerveeru.azurecr.io/mltest:latest
+docker push testdockerveeru.azurecr.io/mltest:latest 
+
+
