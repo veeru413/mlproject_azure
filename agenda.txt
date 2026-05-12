@@ -1,0 +1,11 @@
+Azure deployment
+
+1. Container Registery
+2. Docker Set up in local and push container Registery
+3. Azure Web App with Container
+4. Configured the github Deployment center.
+
+testdockerveeru.azurecr.io   -> this is the container Registery to which we push the docker image
+4QcJF5Urafxb6qlja2ZsuMAai94tXZPjSVGfboq9EoRhoS9nPqHzJQQJ99CEAC1i4TkEqg7NAAACAZCRBwfK -> password for the repository
+
+
